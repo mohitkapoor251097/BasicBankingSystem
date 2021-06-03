@@ -6,6 +6,7 @@ A Dynamic Website is used to transfer money between 10 users. Stack used -
 Front-end : HTML, CSS, Bootstrap &amp; Javascript
 
 Back-end : PHP 
+
 Database : MySQL 
 The Database contains two Tables- Users Table and Transaction Table 
 The User table have basic fields such as name, email &amp; current balance. 
